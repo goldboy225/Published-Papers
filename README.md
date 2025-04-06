@@ -12,16 +12,16 @@
 
 # Snapshots from the papers
 - Research Methodology of Systematic Literature Review:
-- <img width="698" alt="image" src="https://github.com/user-attachments/assets/77cd7820-521c-4df4-8c42-baedc729eafd" />
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/77cd7820-521c-4df4-8c42-baedc729eafd" />
 
 - Research Methodology of Data Visualized Analysis:
-- <img width="701" alt="image" src="https://github.com/user-attachments/assets/004b2cab-c45d-4222-b732-db9b9f62333f" />
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/004b2cab-c45d-4222-b732-db9b9f62333f" />
 
 - Research Methodology of Feature Selection and Extraction:
-- <img width="831" alt="image" src="https://github.com/user-attachments/assets/bb4bfa0c-28c1-4309-8833-eb99b654d3a9" />
+<img width="831" alt="image" src="https://github.com/user-attachments/assets/bb4bfa0c-28c1-4309-8833-eb99b654d3a9" />
 
 - Research Methodology of Advanced Data Preprocessing, Feature Extraction, and Classification
-- <img width="547" alt="image" src="https://github.com/user-attachments/assets/3c2e82f6-cfa9-4e6b-a9da-91f70e4492b9" />
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/3c2e82f6-cfa9-4e6b-a9da-91f70e4492b9" />
 
 - Operational Framework of Advanced Data Preprocessing, Feature Extraction, and Classification
-- <img width="640" alt="image" src="https://github.com/user-attachments/assets/e9b6ff9f-8de8-4a1b-a5b7-ac083c5a8ad6" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/e9b6ff9f-8de8-4a1b-a5b7-ac083c5a8ad6" />
